@@ -1,0 +1,1 @@
+6660e0c1-c29a-43fc-88da-d100461a9703 autoenable=true bucket=cneuromod.mariostars.timeseries chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.mariostars.timeseries port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1769203218.610774143s
